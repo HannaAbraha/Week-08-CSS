@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(157, 127, 255);
+}
+h1 {
+    color:blue;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 10px;
+    text-align: center;
+}
+p {
+    font-size: 30px;
+}    
+h2 {
+    color: purple;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 30px;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid gold;
+}
+tr:nth-child {
+    background-color: radialGradient;
+}
+tr:hover {
+    background-color:blueviolet;
+}
+#box-model {
+    padding: 20px;
+    border-style: double;
+    border-width: 5px;
+    margin: 20px;
+    border-radius: 30px;
+}

@@ -1,0 +1,30 @@
+body {
+    background-color:blue;
+}
+h1 {
+    color: black;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 10px;
+    text-align: center;
+}
+div{
+    color: black;
+    border-style: dashed;
+    border-color:antiquewhite;
+    border-radius: 5px;
+}
+form{
+    color :purple;
+    border-style: dashed;
+    border-color: blueviolet;
+    border-radius: 5px;
+    padding: 0cap;
+}
+button {
+    background-color:lightgray;
+    color: red;
+    padding: 5px;
+    font-size: 10px;
+    
+}
